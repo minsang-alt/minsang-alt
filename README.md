@@ -22,7 +22,6 @@
    - [Java GC](https://evoblog.life/series/Garbage-Collection/)
    - [디스패처 서블릿 동작 방식](https://evoblog.life/dispatcher-servlet/)
    - [멀티스레드와 동시성](https://evoblog.life/series/%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C%EC%99%80-%EB%8F%99%EC%8B%9C%EC%84%B1/)
-   - [동시성 이슈 제어 기법](https://evoblog.life/series/%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88-%EC%A0%9C%EC%96%B4-%EA%B8%B0%EB%B2%95/)
 
 ---
 
