@@ -17,6 +17,7 @@
 
 1. **프로젝트 경험**
    - [500만 건의 책 조회 페이징 최적화: 단일 인덱스, 복합 인덱스, NO-OFFSET 방식 비교 후, 2.6s에서 0.44ms로 속도 개선](https://babgeuleus.tistory.com/entry/page-perfomance-improve)
+   - [비관적락으로 이슈 번호 생성 동시성 처리 및 HikariCP 설정과 타임아웃 처리로 커넥션 풀 최적화](https://babgeuleus.tistory.com/entry/%EC%9D%B4%EC%8A%88-%EB%B2%88%ED%98%B8-%EC%83%9D%EC%84%B1%EC%9D%98-%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%AC%B8%EC%A0%9C%EC%99%80-%EC%BB%A4%EB%84%A5%EC%85%98-%ED%92%80-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%97%AC%EC%A0%95)
 
 2. **지식 정리**
    - [Java GC](https://evoblog.life/series/Garbage-Collection/)
